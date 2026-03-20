@@ -1,0 +1,5 @@
+[{"firstName":"Gautam","lastName":"Dhabhai","email":"gautam@gmail.com","gender":"Male","mobile":"1234567890", "dob":{"month":"January","year":"2000", "day":"01"},"subject":"Math","hobby":"Sports","image":"../testdata/images/itoshi-sae.jpg","address":"H.2351 gAYTRI Colony","state":"NCR","city":"Gurgaon"},
+
+{"firstName":"Jermaine","lastName":"Cole","email":"jermaine@gmail.com","gender":"Male","mobile":"1234567890", "dob":{"month":"March","year":"2002", "day":"10"},"subject":"Hindi","hobby":"Music","image":"../testdata/images/itoshi-sae.jpg","address":"26th South St","state":"Rajasthan","city":"Jaipur"},
+
+{"firstName":"Ayush","lastName":"Rawat","email":"ayush@gmail.com","gender":"Male","mobile":"1234567890", "dob":{"month":"December","year":"1999", "day":"12"},"subject":"Math","hobby":"Reading","image":"../testdata/images/itoshi-sae.jpg","address":"Haldi Ghati","state":"Uttar Pradesh","city":"Lucknow"}]
