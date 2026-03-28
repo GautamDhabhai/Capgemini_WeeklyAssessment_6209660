@@ -1,0 +1,57 @@
+{
+	"id": "d07df7b0-b500-4ff7-8e39-6143e7a335b1",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "shopperID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "prodID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "itemID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "addressId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "orderID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "reviewId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "shopperstack_capgemini Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2026-03-28T07:47:26.924Z",
+	"_postman_exported_using": "Postman/12.3.6"
+}

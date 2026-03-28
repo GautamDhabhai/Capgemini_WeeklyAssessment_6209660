@@ -67,7 +67,7 @@ class Checkout{
     }
 
     async validateOrderConfirmation(){
-        await this.page.screenshot({path: './screenorderConfirmation.png'});
+        await this.page.screenshot({path: '.screenshots/screenorderConfirmation.png'});
         await expect(this.paymentSuccessConfirmation).toBeVisible();
     }
 }
